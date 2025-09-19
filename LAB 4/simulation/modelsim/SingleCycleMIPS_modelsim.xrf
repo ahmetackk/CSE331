@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/projects/co_lab4/Tb.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/SingleCycleMIPS.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/RegisterFile.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/PcModule.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/InstructionFetch.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/DataMemory.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/ControlUnit.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/AluModule.v
+source_file = 1, C:/altera/13.1/projects/co_lab4/db/SingleCycleMIPS.cbx.xml
+source_file = 1, C:/altera/13.1/projects/co_lab4/data.mem
+source_file = 1, C:/altera/13.1/projects/co_lab4/instructions.mem
+source_file = 1, C:/altera/13.1/projects/co_lab4/reg.mem
+design_name = SingleCycleMIPS
+instance = comp, \clk~input , clk~input, SingleCycleMIPS, 1
+instance = comp, \rst~input , rst~input, SingleCycleMIPS, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, SingleCycleMIPS, 1

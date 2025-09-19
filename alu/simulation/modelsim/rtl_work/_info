@@ -1,0 +1,204 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\projects\alu\simulation\modelsim
+vadder_32bit
+I:<4QSl@aR<7H5Cm9AG1>e2
+VChU2:hc85ZYJg2RA;A[kW2
+Z1 dC:\altera\13.1\projects\alu\simulation\modelsim
+w1732576982
+8C:/altera/13.1/projects/alu/adder_32bit.v
+FC:/altera/13.1/projects/alu/adder_32bit.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/altera/13.1/projects/alu -O0
+!i10b 1
+!s100 i44X_QHeSPR>fTJ:QgN202
+!s85 0
+!s108 1734529887.650000
+!s107 C:/altera/13.1/projects/alu/adder_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/adder_32bit.v|
+!s101 -O0
+valu
+ICEA^R5;zLeZ`EChFB?kUG0
+VEQ3EP?EnZ77I]<N1LTQ^z0
+R1
+w1732780343
+8C:/altera/13.1/projects/alu/alu.v
+FC:/altera/13.1/projects/alu/alu.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 W=29]9FhlBjMLmHMSFjBT0
+!s85 0
+!s108 1734529887.599000
+!s107 C:/altera/13.1/projects/alu/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/alu.v|
+!s101 -O0
+valu_tb
+!i10b 1
+!s100 7g<K;?[L]eY<T]2b0SgZd1
+IV;B@3K82`:DF`C3bHQ?fQ2
+VL;=kgzZ7GJ2Reg7Z1GkmR2
+R1
+w1732579258
+8C:/altera/13.1/projects/alu/alu_tb.v
+FC:/altera/13.1/projects/alu/alu_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1734529899.780000
+!s107 C:/altera/13.1/projects/alu/alu_tb.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/projects/alu/alu_tb.v|
+!s101 -O0
+o-work work -O0
+vbitwise_and
+IX:m>Vn6OMYH;T@P3aD>6=2
+VQQEf^WTX>UW<5G?zld@;l2
+R1
+w1732572476
+8C:/altera/13.1/projects/alu/bitwise_and.v
+FC:/altera/13.1/projects/alu/bitwise_and.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 mB^YVSTLCnCY^2C=4TfPL3
+!s85 0
+!s108 1734529887.548000
+!s107 C:/altera/13.1/projects/alu/bitwise_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/bitwise_and.v|
+!s101 -O0
+vbitwise_nor
+I>@9^:MEM;V9OPlCQBD2zd0
+VGVBoPgE8T65GO3mU_H_j32
+R1
+w1732578675
+8C:/altera/13.1/projects/alu/bitwise_nor.v
+FC:/altera/13.1/projects/alu/bitwise_nor.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 `h2M6<Am>l1=Z3BKJSVi[2
+!s85 0
+!s108 1734529887.499000
+!s107 C:/altera/13.1/projects/alu/bitwise_nor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/bitwise_nor.v|
+!s101 -O0
+vbitwise_or
+IgW4K=jQCcQJh0LY=gG2Tz0
+VlMK_@ZVnU=ZIP75:jNm091
+R1
+w1732572503
+8C:/altera/13.1/projects/alu/bitwise_or.v
+FC:/altera/13.1/projects/alu/bitwise_or.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 4D39FUFRI1LE3N0@hFR7J3
+!s85 0
+!s108 1734529887.458000
+!s107 C:/altera/13.1/projects/alu/bitwise_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/bitwise_or.v|
+!s101 -O0
+vbitwise_xor
+IMG9SJg6>B0lo7NUfkgfQB0
+V?0?me`;l8H6IcQaDLRZ_W2
+R1
+w1732572526
+8C:/altera/13.1/projects/alu/bitwise_xor.v
+FC:/altera/13.1/projects/alu/bitwise_xor.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 WoZ5n[0X9jc5V]HV^ZEIX2
+!s85 0
+!s108 1734529887.404000
+!s107 C:/altera/13.1/projects/alu/bitwise_xor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/bitwise_xor.v|
+!s101 -O0
+vfull_adder
+IF:dCNId@BRlT]Qm=I>A7f1
+VDXIz@A8ZlZIe0^?_MInkU1
+R1
+w1734525524
+8C:/altera/13.1/projects/alu/full_adder.v
+FC:/altera/13.1/projects/alu/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 JfU?8<>]_f<PR>?l@[Z:O2
+!s85 0
+!s108 1734529887.356000
+!s107 C:/altera/13.1/projects/alu/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/full_adder.v|
+!s101 -O0
+vmux_8to1
+I?K4nb>hzUj5d`5VieZX`a2
+Va9nPBPmZO_n85^XT=L6VC2
+R1
+w1732780303
+8C:/altera/13.1/projects/alu/mux_8to1.v
+FC:/altera/13.1/projects/alu/mux_8to1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ^`@lCjBUl7D]J=YM6RQWF0
+!s85 0
+!s108 1734529887.309000
+!s107 C:/altera/13.1/projects/alu/mux_8to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/mux_8to1.v|
+!s101 -O0
+vsubtractor_32bit
+If5K_k4674T:A]QZ>2^VXT2
+VHcP:IHJE?BzK@F^FYj<?M3
+R1
+w1734529626
+8C:/altera/13.1/projects/alu/subtractor_32bit.v
+FC:/altera/13.1/projects/alu/subtractor_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ClR8kQU@Sh16?bciIDVnX3
+!s85 0
+!s108 1734529887.249000
+!s107 C:/altera/13.1/projects/alu/subtractor_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/alu|C:/altera/13.1/projects/alu/subtractor_32bit.v|
+!s101 -O0

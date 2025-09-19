@@ -1,0 +1,26 @@
+|full_adder
+sum << half_adder:second_sum.port0
+carry_out << final_carry_out.DB_MAX_OUTPUT_PORT_TYPE
+a => a.IN1
+b => b.IN1
+carry_in => carry_in.IN1
+
+
+|full_adder|half_adder:first_sum
+sum <= sum_of_digits.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_of_sum.DB_MAX_OUTPUT_PORT_TYPE
+a => sum_of_digits.IN0
+a => carry_of_sum.IN0
+b => sum_of_digits.IN1
+b => carry_of_sum.IN1
+
+
+|full_adder|half_adder:second_sum
+sum <= sum_of_digits.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_of_sum.DB_MAX_OUTPUT_PORT_TYPE
+a => sum_of_digits.IN0
+a => carry_of_sum.IN0
+b => sum_of_digits.IN1
+b => carry_of_sum.IN1
+
+

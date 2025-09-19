@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\projects\co_lab2\simulation\modelsim
+vfull_adder
+Ioi5ca12e4hkI`@j235OOQ1
+VRYP>nD9R>G8ML@J?Oi=:32
+Z1 dC:\altera\13.1\projects\co_lab2\simulation\modelsim
+Z2 w1732762140
+8C:/altera/13.1/projects/co_lab2/full_adder.v
+FC:/altera/13.1/projects/co_lab2/full_adder.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work +incdir+C:/altera/13.1/projects/co_lab2 -O0
+!i10b 1
+!s100 fcJJ^b>]]FZPWeD1]nR`g2
+!s85 0
+!s108 1732776098.938000
+!s107 C:/altera/13.1/projects/co_lab2/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab2|C:/altera/13.1/projects/co_lab2/full_adder.v|
+!s101 -O0
+vfull_adder_testbench
+Illfl3n<PXAHn_KA4g_D@=2
+V<JLH3TkG^j>n[U:4II63c1
+R1
+R2
+8C:/altera/13.1/projects/co_lab2/full_adder_testbench.v
+FC:/altera/13.1/projects/co_lab2/full_adder_testbench.v
+L0 2
+R3
+r1
+31
+Z6 o-work work -O0
+!i10b 1
+!s100 d6M6ni;9]GkBS@:d<1[^g3
+!s85 0
+!s108 1732776139.230000
+!s107 C:/altera/13.1/projects/co_lab2/full_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/projects/co_lab2/full_adder_testbench.v|
+!s101 -O0
+vhalf_adder
+IBHhk0A?RT7EAj2mdGoGId1
+VUANSHBM`n;lleGcSze4Z^1
+R1
+R2
+8C:/altera/13.1/projects/co_lab2/half_adder.v
+FC:/altera/13.1/projects/co_lab2/half_adder.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^=3^BQR0V7:XOE@eY;07^3
+!s85 0
+!s108 1732776098.889000
+!s107 C:/altera/13.1/projects/co_lab2/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab2|C:/altera/13.1/projects/co_lab2/half_adder.v|
+!s101 -O0
+vhalf_adder_testbench
+!i10b 1
+!s100 [nDS=L>4>QglkMLeL2IU72
+IceGAEZ>`bXiAb>6JL7W[:2
+VBNR=D2M1STSBI=6SKWVQd0
+R1
+R2
+8C:/altera/13.1/projects/co_lab2/half_adder_testbench.v
+FC:/altera/13.1/projects/co_lab2/half_adder_testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1732776139.288000
+!s107 C:/altera/13.1/projects/co_lab2/half_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/projects/co_lab2/half_adder_testbench.v|
+!s101 -O0
+R6
