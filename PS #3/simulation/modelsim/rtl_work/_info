@@ -1,0 +1,172 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\projects\co_lab4\simulation\modelsim
+vAluModule
+I?Hg1ZSoN[h2_gzn?JAOG^0
+VTMaJe6W2G;`TKFf?VbaeE1
+Z1 dC:\altera\13.1\projects\co_lab4\simulation\modelsim
+w1734384289
+8C:/altera/13.1/projects/co_lab4/AluModule.v
+FC:/altera/13.1/projects/co_lab4/AluModule.v
+L0 4
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/altera/13.1/projects/co_lab4 -O0
+n@alu@module
+!i10b 1
+!s100 WP<ShBA?:<FGozSK;ogDN2
+!s85 0
+!s108 1734597131.500000
+!s107 C:/altera/13.1/projects/co_lab4/AluModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/AluModule.v|
+!s101 -O0
+vControlUnit
+IBM:g47Pj82m=g^m8og9Uo1
+VC7X^jfnjLh?5lWbb8[[LC2
+R1
+w1734596349
+8C:/altera/13.1/projects/co_lab4/ControlUnit.v
+FC:/altera/13.1/projects/co_lab4/ControlUnit.v
+L0 4
+R2
+r1
+31
+R3
+R4
+n@control@unit
+!i10b 1
+!s100 ^m45VE0H;af8bYBR>A[:R2
+!s85 0
+!s108 1734597131.447000
+!s107 C:/altera/13.1/projects/co_lab4/ControlUnit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/ControlUnit.v|
+!s101 -O0
+vDataMemory
+ICBDLNL;Fmeo]fMZkX[Hn41
+VIF?>>ddan4cU6Oj_j4ETi2
+R1
+w1734372896
+8C:/altera/13.1/projects/co_lab4/DataMemory.v
+FC:/altera/13.1/projects/co_lab4/DataMemory.v
+L0 3
+R2
+r1
+31
+R3
+R4
+n@data@memory
+!i10b 1
+!s100 mWlA;m;<FhQG9bU>R1Rc>3
+!s85 0
+!s108 1734597131.654000
+!s107 C:/altera/13.1/projects/co_lab4/DataMemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/DataMemory.v|
+!s101 -O0
+vInstructionFetch
+IZ`0JHK_`m9G:>:mdP7af80
+V89SiankMPJn4Vid3Adj6=3
+R1
+w1734379369
+8C:/altera/13.1/projects/co_lab4/InstructionFetch.v
+FC:/altera/13.1/projects/co_lab4/InstructionFetch.v
+L0 4
+R2
+r1
+31
+R3
+R4
+n@instruction@fetch
+!i10b 1
+!s100 072;@PTGkRCfTS5==n>;m3
+!s85 0
+!s108 1734597131.605000
+!s107 C:/altera/13.1/projects/co_lab4/InstructionFetch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/InstructionFetch.v|
+!s101 -O0
+vPcModule
+ISgoRXIkH2XQNMmLOXIME92
+VbVjEYh@kCPo=4a563;hF@1
+R1
+w1734384348
+8C:/altera/13.1/projects/co_lab4/PcModule.v
+FC:/altera/13.1/projects/co_lab4/PcModule.v
+L0 2
+R2
+r1
+31
+R3
+R4
+n@pc@module
+!i10b 1
+!s100 ?n93CXg^Q;EIE;g[mbaBd2
+!s85 0
+!s108 1734597131.367000
+!s107 C:/altera/13.1/projects/co_lab4/PcModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/PcModule.v|
+!s101 -O0
+vRegisterFile
+Id9m4albTE?nZTKK9G7HHC1
+V8F>PfAQn0HFEL@=:M_7BB1
+R1
+w1734379657
+8C:/altera/13.1/projects/co_lab4/RegisterFile.v
+FC:/altera/13.1/projects/co_lab4/RegisterFile.v
+L0 2
+R2
+r1
+31
+R3
+R4
+n@register@file
+!i10b 1
+!s100 ;kT:YMOC3Iil_221dEK:l3
+!s85 0
+!s108 1734597131.551000
+!s107 C:/altera/13.1/projects/co_lab4/RegisterFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/RegisterFile.v|
+!s101 -O0
+vSingleCycleMIPS
+IHV^JZYoFmYReC>UNl_oz:2
+V@jghf0b5m1FR0zZ>H6:J50
+R1
+w1734597064
+8C:/altera/13.1/projects/co_lab4/SingleCycleMIPS.v
+FC:/altera/13.1/projects/co_lab4/SingleCycleMIPS.v
+L0 3
+R2
+r1
+31
+R3
+n@single@cycle@m@i@p@s
+R4
+!i10b 1
+!s100 3V4KF@HDLg@fV^XzT_niI3
+!s85 0
+!s108 1734597131.292000
+!s107 C:/altera/13.1/projects/co_lab4/SingleCycleMIPS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.1/projects/co_lab4|C:/altera/13.1/projects/co_lab4/SingleCycleMIPS.v|
+!s101 -O0
+vTb
+!i10b 1
+!s100 JDZklagL;mR5^e0L`;NO>3
+IPdKKEJbo@M]SBd]=_cIYn0
+VLAcJ:4e=S?Zm1Pj4n<iDm2
+R1
+w1734374360
+8C:/altera/13.1/projects/co_lab4/Tb.v
+FC:/altera/13.1/projects/co_lab4/Tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1734597140.175000
+!s107 C:/altera/13.1/projects/co_lab4/Tb.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/projects/co_lab4/Tb.v|
+!s101 -O0
+o-work work -O0
+n@tb
